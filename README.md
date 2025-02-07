@@ -15,7 +15,7 @@ The dataset consists of **two categories**:
 1. **Parasitized** - RBCs affected by Malaria.
 2. **Unparasitized** - Healthy RBCs.
 
-The dataset is to be available in your google drive.
+The dataset is to be available in your google drive. Link : https://drive.google.com/file/d/1oXXrgjd3eN0DyZwFmIWdA7EJ79oRoqVm/view?usp=sharing
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
